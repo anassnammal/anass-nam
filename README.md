@@ -1,4 +1,4 @@
-[![anammal's 42 stats](https://badge.mediaplus.ma/binary/anammal)](https://github.com/oakoudad/badge42)
+[![anammal's 42 stats](https://badge.mediaplus.ma/black/anammal)](https://github.com/oakoudad/badge42)
 - 👋 Hi, I’m @anass-nam
 - 👀 I’m interested in tech
 - 🌱 I’m currently learning C
